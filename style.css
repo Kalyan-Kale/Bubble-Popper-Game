@@ -53,7 +53,8 @@ body {
 
 .elem h2 {
   font-weight: 500;
-  font-size: 2vmax;
+  font-size: 1.5vmax;
+  margin-right: .8vw;
 }
 
 .box {
@@ -114,6 +115,7 @@ body {
   }
 
   .elem h2 {
+    font-size: 2vmax;
     margin-right: 0.5vmax;
   }
 
